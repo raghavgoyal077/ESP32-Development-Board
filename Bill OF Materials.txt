@@ -1,0 +1,16 @@
+Order list for D:/New folder (2)/m.sch
+Exported from EAGLE with DesignLink
+
+Quantity	Value	Package	Order code	Manufacturer	Manuf. Code	Availability	Price (from)	Description
+2	10uf/25V	CPOL-RADIAL-5MM-10MM-NS	unknown					
+2	0.1uF	CAP-PTH-SMALL-KIT	2860003	VISHAY	20VLP10-R	1814	332.44	VISHAY - 20VLP10-R - Ceramic Suppression Capacitor, Y5V, Disc, 0.1 µF, ± 20%, X2, 400 V, Radial Leaded
+1		1X04	unknown					
+1	4.2V	1X02	unknown					
+2	10K	0204/5	1219304	TT ELECTRONICS / WELWYN	WP4S-10KRJA2	457	57.97	TT ELECTRONICS / WELWYN - WP4S-10KRJA2 - Through Hole Resistor, 10 kohm, WP-S Series, 4 W, ± 5%, Axial Leaded, 100 V
+2	5.1K	0204/5	2330356	NEOHM - TE CONNECTIVITY	LR2F5K1	4000	3.77	NEOHM - TE CONNECTIVITY - LR2F5K1 - Through Hole Resistor, 5.1 kohm, LR Series, 750 mW, ± 1%, Axial Leaded, 350 V
+1	Switch	TACTILE_SWITCH_PTH_6.0MM	1555986	ALCOSWITCH - TE CONNECTIVITY	FSM10JH	20853	7.06	ALCOSWITCH - TE CONNECTIVITY - FSM10JH - Tactile Switch, FSMJ, Top Actuated, Through Hole, Round Button, 160 gf, 50mA at 24VDC
+1	TP4056   	TP4056	unknown					
+1	CH340G	SOIC127P600X180-16N	unknown					
+1	ESP32-WROOM-32	MODULE_ESP32-WROOM-32	4308187	DFROBOT	DFR0654	0	1213.23	DFROBOT - DFR0654 - FireBeetle 2 Board Kit, ESP32-WROOM-32E, Xtensa LX6, 32 bit, IoT MCU
+1	AMS1117-3.3	SOT229P700X180-4N	unknown					
+1		USB-C-16P-2LAYER-PADS	2524076	MOLEX	105450-0101	10483	142.83	MOLEX - 105450-0101 - USB Connector, USB Type C, USB 3.1, Receptacle, 24 Ways, Surface Mount, Right Angle
