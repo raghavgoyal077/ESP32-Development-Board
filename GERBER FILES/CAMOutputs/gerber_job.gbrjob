@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-02-19T10:22:46Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ESP32"
+        },
+        "Owner": "Raghav Goyal <raghavgoyal077@gmail.com>",
+        "Size": {
+            "X": 39.126356,
+            "Y": 81.958334
+        }
+    }
+}
